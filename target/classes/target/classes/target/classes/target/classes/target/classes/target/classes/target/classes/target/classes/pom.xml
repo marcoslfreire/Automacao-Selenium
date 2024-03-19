@@ -20,7 +20,6 @@
             <artifactId>selenium-java</artifactId>
             <version>4.1.1</version> <!-- Versão mais recente do Selenium WebDriver -->
         </dependency>
-
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
             <artifactId>webdrivermanager</artifactId>
